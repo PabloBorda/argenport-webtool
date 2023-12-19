@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/magic/!svn/ver/686/Argenport/argenport-webtool/db/migrate
+END
+20110918184542_create_products.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/magic/!svn/ver/686/Argenport/argenport-webtool/db/migrate/20110918184542_create_products.rb
+END
+20111020214111_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/magic/!svn/ver/686/Argenport/argenport-webtool/db/migrate/20111020214111_create_users.rb
+END
+20111005230643_create_sales.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/magic/!svn/ver/686/Argenport/argenport-webtool/db/migrate/20111005230643_create_sales.rb
+END
+20111019230430_create_orders.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/magic/!svn/ver/686/Argenport/argenport-webtool/db/migrate/20111019230430_create_orders.rb
+END

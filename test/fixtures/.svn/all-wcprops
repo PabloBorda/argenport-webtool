@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/magic/!svn/ver/686/Argenport/argenport-webtool/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/magic/!svn/ver/686/Argenport/argenport-webtool/test/fixtures/users.yml
+END
+products.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/magic/!svn/ver/686/Argenport/argenport-webtool/test/fixtures/products.yml
+END
+sales.yml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/magic/!svn/ver/686/Argenport/argenport-webtool/test/fixtures/sales.yml
+END
+orders.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/magic/!svn/ver/686/Argenport/argenport-webtool/test/fixtures/orders.yml
+END

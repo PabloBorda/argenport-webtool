@@ -1,0 +1,8 @@
+ 
+ <table>
+ 	<tr> <td align="center"> Product </td> <td align="center"> Link </td> <td align="center"> Number </td> </tr>
+ <% while row = @res.fetch_row do %>
+      <tr> <td> <%=row[0]%> </td> <td> <%= row[1] %> </td> <td> <%= row[2] %> </td> </tr>
+ <%   end  %>
+
+</table>

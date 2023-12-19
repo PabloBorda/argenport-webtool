@@ -1,0 +1,22 @@
+<div>
+<font size="1">
+<TABLE cellspacing=0 cellpadding=0 id=header border="1">
+<tr>
+	<td>Costo</td>
+	<td>Link</td>
+	<td>Vendidos</td>
+	<td>MostSoldDay</td>
+	<td>LeastSoldDay</td>
+</tr>
+<% @most_sold_yesterday = Product.find_by_sql("select * from products limit 10;") %>
+<% if !@most_sold_yesterday.nil?      %>
+<%     @most_sold_yesterday.each { |a|  %>
+
+<%=	   "<tr><td>" + a.localcost.to_s + "</td><td with=\"10%\"><font size=\"1\"><a href=\"" + a.link.to_s + "\">" + a.link.to_s + "</a></font></td><td>" + a.sold.to_s +  "</td><td>" + a.maxsoldday.to_s + "</td><td>" + a.leastsoldday.to_s + "</td></tr>"  %>
+	
+	
+<%	   }  %>
+<% end  %>
+</table>
+</font>
+</div>

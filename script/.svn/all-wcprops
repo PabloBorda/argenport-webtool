@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/magic/!svn/ver/686/Argenport/argenport-webtool/script
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/magic/!svn/ver/686/Argenport/argenport-webtool/script/console
+END
+server
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/magic/!svn/ver/686/Argenport/argenport-webtool/script/server
+END
+dbconsole
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/magic/!svn/ver/686/Argenport/argenport-webtool/script/dbconsole
+END
+destroy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/magic/!svn/ver/686/Argenport/argenport-webtool/script/destroy
+END
+runner
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/magic/!svn/ver/686/Argenport/argenport-webtool/script/runner
+END
+about
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/magic/!svn/ver/686/Argenport/argenport-webtool/script/about
+END
+generate
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/magic/!svn/ver/686/Argenport/argenport-webtool/script/generate
+END
+plugin
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/magic/!svn/ver/686/Argenport/argenport-webtool/script/plugin
+END

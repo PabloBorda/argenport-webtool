@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/users
+END
+edit.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/users/edit.html.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/users/index.html.erb
+END
+_new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/users/_new.html.erb
+END
+new.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/users/new.html.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/users/show.html.erb
+END

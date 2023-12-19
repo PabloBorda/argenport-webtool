@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/dashboard
+END
+_show_most_sold_products.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/dashboard/_show_most_sold_products.html.erb
+END
+_calculate_suggestions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/dashboard/_calculate_suggestions.html.erb
+END
+_show_questions.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/dashboard/_show_questions.html.erb
+END
+_order_log.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/dashboard/_order_log.html.erb
+END
+_show_most_sold_yesterday.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/dashboard/_show_most_sold_yesterday.html.erb
+END
+welcome.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/dashboard/welcome.html.erb
+END
+show_investment_form.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/dashboard/show_investment_form.html.erb
+END
+_generate_plan.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/views/dashboard/_generate_plan.html.erb
+END

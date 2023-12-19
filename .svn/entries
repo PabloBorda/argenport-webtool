@@ -1,0 +1,129 @@
+10
+
+dir
+685
+http://dev.smartbands.com.ar/magic/Argenport/argenport-webtool
+http://dev.smartbands.com.ar/magic
+
+
+
+2013-12-28T19:33:29.294284Z
+685
+bordiber
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bd845740-f237-407e-8f85-ea9965f2443c
+
+test
+dir
+
+app
+dir
+
+tmp
+dir
+
+log
+dir
+
+Rakefile
+file
+686
+
+
+
+2011-09-18T15:07:31.000000Z
+17f2f134da4cd31ea095d5868ca89e86
+2013-12-28T20:06:47.687013Z
+686
+bordiber
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+307
+
+script
+dir
+
+config
+dir
+
+db
+dir
+
+doc
+dir
+
+lib
+dir
+
+README
+file
+686
+
+
+
+2011-09-18T15:07:31.000000Z
+a58e68a7599c976f071d5b9c6fa67fb3
+2013-12-28T20:06:47.687013Z
+686
+bordiber
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10011
+
+vendor
+dir
+
+public
+dir
+

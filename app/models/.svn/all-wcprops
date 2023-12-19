@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/models
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/models/user.rb
+END
+product.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/models/product.rb
+END
+sale.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/models/sale.rb
+END
+order.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/magic/!svn/ver/686/Argenport/argenport-webtool/app/models/order.rb
+END
